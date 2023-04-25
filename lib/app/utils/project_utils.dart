@@ -15,35 +15,33 @@ class ProjectUtils {
 
 List<ProjectUtils> projectUtils = [
   ProjectUtils(
-    banners: 'assets/imgs/02.png',
+    banners: 'assets/imgs/doc.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Social Media App',
+    titles: 'Doctors on Call App',
     description:
-        'This is a just Fully functional Social media App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/poetically-.git',
+        'This is a Fully functional E-commerce App developed using flutter.',
+    links: 'https://github.com/kalind7',
   ),
   ProjectUtils(
     banners: 'assets/imgs/1.png',
     icons: 'assets/imgs/flutter.png',
     titles: 'Awesome CRM UI',
-    description:
-        'This is a just CRM UI Design using Figma, file is also available, check below.',
-    links: 'https://github.com/sudeshnb/',
+    description: 'This is a just CRM UI Design using Figma.',
+    links: 'https://github.com/kalind7',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/03.png',
+    banners: 'assets/imgs/jnr.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Exercise App',
+    titles: 'Furniture App',
     description:
-        'This is a just Fully function Exercise App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/elderly_exercise_app.git',
+        'This is a Fully functional furniture buy and sell App by using flutter.',
+    links: 'https://github.com/kalind7',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/04.png',
+    banners: 'assets/imgs/cni.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Plant App UI',
-    description:
-        'This is a just Plant App UI by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/flutter_plant_app.git',
+    titles: 'CNI Event App',
+    description: 'This is a Event booking and registration by using flutter.',
+    links: 'https://github.com/kalind7',
   ),
 ];
